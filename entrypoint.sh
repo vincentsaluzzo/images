@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd /home/container
+cd /home/container 
 
 # Output Current Java Version
 java -version
