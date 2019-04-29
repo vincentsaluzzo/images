@@ -3,7 +3,7 @@
 # Environment: Java (glibc support)
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM        openjdk:8-jre-slim
+FROM        arm64v8/openjdk:8-jre-slim
 
 LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
 
